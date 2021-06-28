@@ -16,6 +16,16 @@ link:{logo}[image:{logo}[]]
 
 toc::[]
 
+== China
+
+Before <<getting-started>>, read this important pre-requisite: https://github.com/cirosantilli/china-dictatorship
+
+Because human rights is more important than profit and technology.
+
+image::https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Hao_Haidong_kick.jpg[width=600]
+
+image::https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Xi_sadomasochist.jpg[width=600]
+
 == Getting started
 
 First read this introduction: https://stackoverflow.com/questions/22054578/how-to-run-a-program-without-an-operating-system/32483545#32483545
@@ -2311,6 +2321,7 @@ Almost entirely in C `-nostdlib`, with very few inline `asm` commands, and a sma
 * https://github.com/nanochess/fbird Flappy bird in the 512-byte boot sector.
 * https://github.com/Overv/MineAssemble Minecraft
 * https://github.com/tsoding/pinpog Pong / Breakout
+* https://github.com/io12/bootmine Minesweeper game in a 512-byte boot sector.
 
 === Tutorials
 
